@@ -28,8 +28,5 @@ For an expected yield of around 1.22% APY
 
 
 # Resources
-- Badger Builders Discord https://discord.gg/Tf2PucrXcE
-- Badger [Discord channel](https://discord.gg/phbqWTCjXU)
-- Yearn [Discord channel](https://discord.com/invite/6PNv2nF/)
-- Brownie [Gitter channel](https://gitter.im/eth-brownie/community)
+- Badger [Discord channel](https://discord.gg/badgerdao)
 - Alex The Entreprenerd on [Twitter](https://twitter.com/GalloDaSballo)
